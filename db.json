@@ -1,9 +1,9 @@
 {
     "restaurants": {
-      "coffee-makers": {
+      "tea-coffee-makers": {
         "info": {
-          "id": "coffee-makers",
-          "name": "Tea Cofee Makers",
+          "id": "tea-coffe-makers",
+          "name": "Tea Coffe Makers",
           "description": "Specialty coffee and brunch cafe",
           "shortDescription": "Artisanal coffee and fresh food",
           "logo": "https://placeholder.com/logo-coffee-makers.png",
